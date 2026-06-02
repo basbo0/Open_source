@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 2,
+  "Trivy": {
+    "Version": "0.71.0"
+  },
+  "ReportID": "019e8812-e42f-76da-8e05-819a6a7e5623",
+  "CreatedAt": "2026-06-02T13:23:19.983453676+02:00",
+  "ArtifactID": "sha256:70c5b9149e8da8d50c2b240c17163329078981b9a744b783e0aef78f52b758ea",
+  "ArtifactName": ".",
+  "ArtifactType": "repository",
+  "Metadata": {
+    "RepoURL": "https://github.com/basbo0/Open_source.git",
+    "Branch": "main",
+    "Commit": "b57df552b5a4918ff9bef04156dd191ad0b76dea",
+    "CommitMsg": "suricata-vulns pour sbom avec cyclonedx",
+    "Author": "root \u003croot@vbox.lan\u003e",
+    "Committer": "root \u003croot@vbox.lan\u003e"
+  }
+}
